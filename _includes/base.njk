@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ title or metadata.title }}</title>
+  <meta name="description" content="{{ metadata.description }}">
+  <meta data-pagefind-meta="title" content="{{ title or metadata.title }}">
+  {% if description %}
+  <meta data-pagefind-meta="description" content="{{ description }}">
+  {% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/css/style.css">
+
+  {% include "schema-blog.njk" %}
+</head>
+<body>
+  <header class="site-header">
+    <h1 data-pagefind-ignore><a href="/">{{ metadata.title }}</a></h1>
+    <p class="site-description">{{ metadata.description }}</p>
+    <nav>
+      {% if metadata.nav %}
+        {% for item in metadata.nav %}
+          <a href="{{ item.url }}">{{ item.label }}</a>
+        {% endfor %}
+      {% else %}
+        <a href="/">Home</a>
+        <a href="/about/">About</a>
+        <a href="/contributors/">Contributors</a>
+        <a href="/editorial-staff/">Editorial Staff</a>
+        <a href="/submissions/">Submissions</a>
+        <a href="/archive/">Archive</a>
+        <a href="/search/">Search</a>
+      {% endif %}
+    </nav>
+  </header>
+
+  <heading-anchors>
+    <main data-pagefind-body>
+      <div hidden data-pagefind-meta="title">{{ title or metadata.title }}</div>
+      {% if description %}
+      <div hidden data-pagefind-meta="description">{{ description }}</div>
+      {% endif %}
+      {{ content | safe }}
+    </main>
+  </heading-anchors>
+
+  <footer class="site-footer">
+    <p>© Copyright {{ metadata.footer.owner }} {{ metadata.footer.startYear }}-{{ metadata.buildDate | date('yyyy') }}. {{ metadata.footer.tail }}</p>
+  </footer>
+  <script type="module" src="/js/heading-anchors.js"></script>
+</body>
+</html>
