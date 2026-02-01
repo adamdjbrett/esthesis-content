@@ -19,3 +19,16 @@
 - Removed/neutralized references to missing images in posts.
 - Added Pagefind UI passthrough and per-result title/description overrides.
 - Archive now renders italic descriptions with ellipsis.
+- Created contributor collection and pages from `content/pages/contributors.md` with per-contributor posts lists and a contributor layout.
+- Added author-to-contributor linking in `post.njk` and a redirect for the Kenneth Lokensgard slug.
+- Rewrote “How Humor Works, Part 1” to clean Markdown (no HTML) and added standardized author bio separators across posts.
+- Fixed broken header/inline images by pointing to existing local assets and added new local images for Berliner Humor and Töpffer illustration.
+- Scanned posts for missing local images and generated `missing.md` in the repo root with a complete list.
+- Ran `npm install` in the correct project root and confirmed dependencies are up to date.
+
+Lessons learned:
+- Image paths must match actual files in `public/` (watch for unicode filenames and size-suffixed variants).
+- Many WordPress-era assets are missing; use a centralized `missing.md` to coordinate recovery.
+- Ensure front matter `---` is on its own line and descriptions are clean Markdown.
+- Contributor matching works best when author slugs are normalized and linked consistently.
+- Run npm commands from the repo root to avoid ENOENT errors.
