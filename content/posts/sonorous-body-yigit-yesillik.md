@@ -3,7 +3,7 @@ title: "Sonorous Body (Yiğit Yeşillik)"
 date: 2020-05-20T04:02:08+00:00
 author: editors
 permalink: /sonorous-body-yigit-yesillik/
-image: /images/wp-content/uploads/2020/06/guitar-3726729_960_720.jpg
+image: /images/wp-content/uploads/2020/06/guitar-3726729_960_720-800x500.jpg
 description: "“The sound is vibrate in itself or by itself: it is not only, for the sonorous body, to emit a sound, but it is also to stretch out, to carry itself and be"
 categories:
   - "sound-theory"

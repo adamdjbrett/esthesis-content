@@ -3,7 +3,7 @@ title: "The Cultural Turn To The Material – Where The Crawdads Sing, Witches, 
 date: 2020-06-08T20:28:50+00:00
 author: editors
 permalink: /the-cultural-turn-to-the-material-where-the-crawdads-sing-witches-and-japan-part-1-marianne-kimura/
-image: /images/wp-content/uploads/2020/06/wiccan-woman.jpg
+image: /images/wp-content/uploads/2020/06/wiccan-woman-800x500.jpg
 description: "The following is the first of a two-part series. In the recent punishing publishing environment where, for example, sales of adult fiction in America are"
 categories:
   - "literature"

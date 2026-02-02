@@ -3,7 +3,7 @@ title: "The Ambivalent Portrait – Locating Resistance And Compliance In The Mo
 date: 2020-04-14T03:51:49+00:00
 author: editors
 permalink: /the-ambivalent-portrait-locating-resistance-and-compliance-in-the-moment-of-selfie-production-part-1-harold-dalton/
-image: /images/wp-content/uploads/2020/04/Woman-selfie.jpg
+image: /images/wp-content/uploads/2020/04/Woman-selfie-800x500.jpg
 description: "The following is the first of a two-part series. Epistemologically, recognizing the importance of routines for media use, means that text and context cannot"
 categories:
   - "photography"

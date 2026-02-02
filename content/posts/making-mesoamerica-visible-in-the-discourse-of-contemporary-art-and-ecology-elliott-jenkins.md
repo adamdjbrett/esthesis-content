@@ -3,7 +3,7 @@ title: "Making Mesoamerica Visible In The Discourse Of Contemporary Art And Ecol
 date: 2019-05-09T21:25:29+00:00
 author: editors
 permalink: /making-mesoamerica-visible-in-the-discourse-of-contemporary-art-and-ecology-elliott-jenkins/
-image: /images/wp-content/uploads/2019/05/Telamones_Tula.jpg
+image: /images/wp-content/uploads/2019/05/Telamones_Tula-800x500.jpg
 description: "“In our everyday lived experience, there is an unforgiving momentum to adopt ways of being that are Eurocentric within a coloniality of power, especially"
 categories:
   - "art-history"

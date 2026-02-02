@@ -3,7 +3,7 @@ title: "How Humor Works – A Clear Proposal For A Classic Question, Part 2 (E. 
 date: 2020-12-22T18:12:01+00:00
 author: editors
 permalink: /how-humor-works-a-clear-proposal-for-a-classic-question-part-2-e-garrett-ennis/
-image: /images/wp-content/uploads/2020/12/colorful-1525912_1280.jpg
+image: /images/wp-content/uploads/2020/12/colorful-1525912_1280-750x280.jpg
 description: "The following is the second of a four-part series. The first can be found here. Alright, let’s apply this to some common examples. Pranks. The The following"
 categories:
   - "psychology-of-art"

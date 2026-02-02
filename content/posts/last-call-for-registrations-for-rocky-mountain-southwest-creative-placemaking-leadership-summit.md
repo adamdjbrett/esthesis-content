@@ -3,7 +3,7 @@ title: "Last Call For Registrations For Rocky Mountain/Southwest Creative Placem
 date: 2017-11-13T15:16:44+00:00
 author: editors
 permalink: /last-call-for-registrations-for-rocky-mountain-southwest-creative-placemaking-leadership-summit/
-image: /images/wp-content/uploads/2018/03/vistas.png
+image: /images/wp-content/uploads/2018/03/vistas-800x500.png
 description: "There are only about 75 tickets left for the Rocky Mountain/Southwest Creative Placemaking Leadership Summit, April 6 and 7 at the University of Denver in"
 categories:
   - "announcements"

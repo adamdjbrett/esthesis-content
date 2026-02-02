@@ -3,7 +3,7 @@ title: "Gender And Sexuality In The Animated Films Of Walt Disney and Hayao Miya
 date: 2018-04-26T02:40:23+00:00
 author: editors
 permalink: /gender-and-sexuality-in-the-animated-films-of-walt-disney-and-hayao-miyazaki-part-2-hiroko-miyashita/
-image: /images/wp-content/uploads/2018/04/anime-figure.jpg
+image: /images/wp-content/uploads/2018/04/anime-figure-800x500.jpg
 description: "The following is the second of a three-part series. The first installment can be found here. In general, as Laura Mulvey argues, female characters in past,"
 categories:
   - "film"

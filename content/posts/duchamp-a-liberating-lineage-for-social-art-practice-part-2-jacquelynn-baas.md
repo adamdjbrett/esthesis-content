@@ -3,7 +3,7 @@ title: "Duchamp – A Liberating Lineage For Social Art Practice, Part 2 (Jacque
 date: 2019-09-09T18:53:06+00:00
 author: editors
 permalink: /duchamp-a-liberating-lineage-for-social-art-practice-part-2-jacquelynn-baas/
-image: /images/wp-content/uploads/2019/09/800px-Monkey_gives_honey_to_Buddha_Shakyamuni_India_Bihar_probably_Kurkihar_Pala_dynasty_c._1000_AD_black_stone_-_Östasiatiska_museet_Stockholm_-_DSC09270.jpg
+image: /images/wp-content/uploads/2019/09/Five-Way_Portrait_of_Marcel_Duchamp_21_June_1917_New_York_City-800x500.jpg
 description: "The following is the second of a two-part series. The first can be found here. My thanks to curator Mary Jane Jacob and artist Ernesto Pujol for their"
 categories:
   - "art-theory"

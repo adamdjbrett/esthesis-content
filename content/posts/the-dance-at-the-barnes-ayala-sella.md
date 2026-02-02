@@ -3,7 +3,7 @@ title: "The Dance At The Barnes (Ayala Sella)"
 date: 2018-04-02T04:29:21+00:00
 author: Editor
 permalink: /the-dance-at-the-barnes-ayala-sella/
-image: /images/wp-content/uploads/2018/04/20100414210212La_danse_I_by_Matisse.jpg
+image: /images/wp-content/uploads/2018/04/20100414210212La_danse_I_by_Matisse-800x500.jpg
 description: "The following essay was originally written in September 2009. In May 2012, almost nine decades after its opening, the Barnes Foundation closed its doors in"
 categories:
   - "art-history"
@@ -19,7 +19,7 @@ tags:
   - "paris"
 ---
 
-*The following essay was originally written in September 2009. In May 2012, almost nine decades after its opening, the Barnes Foundation closed its doors in Merion, Pennsylvania, and the collection was moved to a new facility on the Benjamin Franklin Highway in downtown Philadelphia.*The story of the Barnes Foundation is both a thrilling tale and a devastating one in the history of art. From its opening until today it has been a curious, problematic, misunderstood, terribly underrated, and most of all relatively unknown institution to both art historians and art lovers worldwide. 
+*The following essay was originally written in September 2009. In May 2012, almost nine decades after its opening, the Barnes Foundation closed its doors in Merion, Pennsylvania, and the collection was moved to a new facility on the Benjamin Franklin Highway in downtown Philadelphia.* The story of the Barnes Foundation is both a thrilling tale and a devastating one in the history of art. From its opening until today it has been a curious, problematic, misunderstood, terribly underrated, and most of all relatively unknown institution to both art historians and art lovers worldwide. 
 
 Upon further investigation of the Foundation and its founder, it is impossible to oversee the obvious fact that there exists no museum, no collection, no school of thought, and no story as rich as that of the Barnes Foundation. 
 

@@ -3,7 +3,7 @@ title: "Reflections On “Anarchist” Structures And Aesthetics In Cultural Col
 date: 2020-01-21T18:16:48+00:00
 author: editors
 permalink: /reflections-on-anarchist-structures-and-aesthetics-in-cultural-collectives-part-2-jeffrey-swartz/
-image: /images/wp-content/uploads/2020/02/signac-place-des.jpg
+image: /images/wp-content/uploads/2020/02/signac-place-des-800x500.jpg
 description: "The following is the second installment of a two-part series. The first can be found here. An abridged version of this text was previously published The"
 categories:
   - "arts-and-society"

@@ -3,7 +3,7 @@ title: "The Designer’s Responsibility – Reflecting on Humanism And Ecology I
 date: 2018-08-23T00:13:08+00:00
 author: editors
 permalink: /the-designers-responsibility-reflecting-on-humanism-and-ecology-in-architecture-apil-k-c/
-image: /images/wp-content/uploads/2018/08/IMG_1241.jpg
+image: /images/wp-content/uploads/2018/08/IMG_1241-800x500.jpg
 description: "Urbanization is a phenomenon of physical growth of urban areas, which is closely linked with modernization and the industrialization process of expansion. Like"
 categories:
   - "architecture"

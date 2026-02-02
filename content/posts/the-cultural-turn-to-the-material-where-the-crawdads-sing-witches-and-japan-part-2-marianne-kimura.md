@@ -3,7 +3,7 @@ title: "The Cultural Turn To The Material – Where The Crawdads Sing, Witches, 
 date: 2020-06-22T20:49:49+00:00
 author: editors
 permalink: /the-cultural-turn-to-the-material-where-the-crawdads-sing-witches-and-japan-part-2-marianne-kimura/
-image: /images/wp-content/uploads/2020/06/Oahu-Wakamiya-Inari-shrine-altar.jpg
+image: /images/wp-content/uploads/2020/06/Oahu-Wakamiya-Inari-shrine-altar-800x500.jpg
 description: "The following is the second of a two-part series. The first can be found here. Given the intense focus on the material and the deep and scientific knowledge"
 categories:
   - "esotericism"

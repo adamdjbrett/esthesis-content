@@ -3,7 +3,7 @@ title: "Minority Representation In Mainstream Art Museums, Part 1 (Heather Stivi
 date: 2019-01-29T08:08:17+00:00
 author: editors
 permalink: /minority-representation-in-mainstream-art-museums-part-1-heather-stivison/
-image: /images/wp-content/uploads/2019/01/graffiti-2832592_1280.jpg
+image: /images/wp-content/uploads/2019/01/graffiti-2832592_1280-800x500.jpg
 description: "The following is the first of a three-part series. The project on which this essay is based focused on art museums within the English-speaking world and their"
 categories:
   - "contemporary-art"

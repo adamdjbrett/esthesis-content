@@ -3,7 +3,7 @@ title: "Charles Cassar – An Artist of “Colour” (Louis Lagana)"
 date: 2018-03-21T01:06:39+00:00
 author: Editor
 permalink: /charles-cassar-an-artist-of-colour-louis-lagana/
-image: /images/wp-content/uploads/2018/03/IL-Timoniere-nel-Tempo.jpg
+image: /images/wp-content/uploads/2018/03/IL-Timoniere-nel-Tempo-800x500.jpg
 description: "Maltese artist Charles Cassar explored aquatic imagery and marine creatures in his works. His father, a Navy man, instilled in him a love for the sea. Cassar’s"
 categories:
   - "art-and-spirituality"

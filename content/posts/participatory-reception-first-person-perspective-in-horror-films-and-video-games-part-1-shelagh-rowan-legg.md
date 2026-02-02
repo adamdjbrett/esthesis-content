@@ -3,7 +3,7 @@ title: "Participatory Reception – First Person Perspective In Horror Films And
 date: 2019-10-01T00:11:07+00:00
 author: editors
 permalink: /participatory-reception-first-person-perspective-in-horror-films-and-video-games-part-1-shelagh-rowan-legg/
-image: /images/wp-content/uploads/2019/10/horror-dungeon.jpg
+image: /images/wp-content/uploads/2019/10/horror-dungeon-800x500.jpg
 description: "The following is the first installment of a two-part series. In the late 19th century, authorities at the morgue in Paris, overwhelmed with unclaimed bodies,"
 categories:
   - "cinema"

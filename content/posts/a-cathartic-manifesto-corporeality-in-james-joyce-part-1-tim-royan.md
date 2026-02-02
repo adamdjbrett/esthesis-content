@@ -3,7 +3,7 @@ title: "A Cathartic Manifesto: Corporeality In James Joyce, Part 1 (Tim Royan)"
 date: 2018-10-23T04:02:51+00:00
 author: editors
 permalink: /a-cathartic-manifesto-corporeality-in-james-joyce-part-1-tim-royan/
-image: /images/wp-content/uploads/2018/10/La_Trieste_de_Magris_al_CCCB_37_-_James_Joyce_amb_bigoti_i_ulleres.jpg
+image: /images/wp-content/uploads/2018/10/La_Trieste_de_Magris_al_CCCB_37_-_James_Joyce_amb_bigoti_i_ulleres-800x500.jpg
 description: "The following is the first of a two-part series. James Joyce, throughout his literary career, repeatedly implements descriptions of the human body and its"
 categories:
   - "literature"

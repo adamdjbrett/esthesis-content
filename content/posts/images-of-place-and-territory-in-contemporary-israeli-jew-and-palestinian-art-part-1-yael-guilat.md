@@ -3,7 +3,7 @@ title: "Images Of Place And Territory In Contemporary Israeli-Jew And Palestinia
 date: 2019-04-17T03:51:13+00:00
 author: editors
 permalink: /images-of-place-and-territory-in-contemporary-israeli-jew-and-palestinian-art-part-1-yael-guilat/
-image: /images/wp-content/uploads/2019/04/1280px-Edward_Lear_-_Jerusalem_from_the_Mount_of_Olives_-_Google_Art_Project.jpg
+image: /images/wp-content/uploads/2019/04/1280px-Edward_Lear_-_Jerusalem_from_the_Mount_of_Olives_-_Google_Art_Project-800x500.jpg
 description: "The following article is published in two installments. Translation from Hebrew: Daria Kassovsky. Images of maps have been a prevalent motif throughout the"
 categories:
   - "contemporary-art"

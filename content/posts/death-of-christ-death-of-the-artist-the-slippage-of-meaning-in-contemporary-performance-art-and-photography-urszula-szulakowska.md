@@ -3,7 +3,7 @@ title: "Death Of Christ/Death Of the Artist –  The Slippage Of Meaning In Cont
 date: 2018-07-30T19:29:07+00:00
 author: editors
 permalink: /death-of-christ-death-of-the-artist-the-slippage-of-meaning-in-contemporary-performance-art-and-photography-urszula-szulakowska/
-image: /images/wp-content/uploads/2018/08/Style-Lamentation-Oil-Painting-0.4MP.jpg
+image: /images/wp-content/uploads/2018/08/Style-Lamentation-Oil-Painting-0.4MP-680x500.jpg
 description: "Note: The works of Krzysztof Gliszczyński depicted in the text of the article below are reproduced through permission obtained by the author. From the late"
 categories:
   - "art-history"

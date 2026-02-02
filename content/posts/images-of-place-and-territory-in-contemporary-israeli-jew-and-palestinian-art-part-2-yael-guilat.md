@@ -3,7 +3,7 @@ title: "Images Of Place And Territory In Contemporary Israeli-Jew And Palestinia
 date: 2019-04-25T02:25:18+00:00
 author: editors
 permalink: /images-of-place-and-territory-in-contemporary-israeli-jew-and-palestinian-art-part-2-yael-guilat/
-image: /images/wp-content/uploads/2019/04/Israel.jpg
+image: /images/wp-content/uploads/2019/04/Israel-800x500.jpg
 description: "The following is the second installment of a two-part series. The first one can be found here. Translation from Hebrew: Daria Kassovsky. Representation"
 categories:
   - "contemporary-art"

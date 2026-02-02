@@ -3,7 +3,7 @@ title: "The Phenomenon Of Marina Abramović As Re-enactment Of The Passions Of T
 date: 2020-11-16T22:18:04+00:00
 author: editors
 permalink: /the-phenomenon-of-marina-abramovic-as-re-enactment-of-the-passions-of-the-contemporary-elite-part-2-gennady-shkliarevsky/
-image: /images/wp-content/uploads/2020/11/Abramovic_Ulay.jpg
+image: /images/wp-content/uploads/2020/11/Abramovic_Ulay-750x280.jpg
 description: "The following is the second of a two-part series. The first can be found here. Contemporary artists including Abramovic and critics tend to overlook this"
 categories:
   - "art-theory"
