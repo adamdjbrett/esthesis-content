@@ -3,7 +3,7 @@ title: "What Might Burning Man Say To Reflexive Christianity In The West?, Part 
 date: 2019-05-20T00:01:07+00:00
 author: editors
 permalink: /what-might-burning-man-say-to-reflexive-christianity-in-the-west-john-w-morehead/
-image: /images/wp-content/uploads/2019/05/Burning_Man_2015_21874978173.jpg
+image: /images/wp-content/uploads/2019/05/Burning_Man_2015_21874978173-800x500.jpg
 description: "The following is the first of a two-part installment. An annual event held in connection with the Labor Day weekend in the Black Rock Desert of Nevada has"
 categories:
   - "art-and-spirituality"

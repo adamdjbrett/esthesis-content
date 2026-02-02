@@ -3,7 +3,7 @@ title: "Comics And The Public Arts (Sergio Figueiredo)"
 date: 2016-08-31T02:37:39+00:00
 author: "Sergio C. Figueiredo"
 permalink: /comics-and-the-public-arts/
-image: /images/Töppfer-illustration.webp
+image: /images/Toppfer-illustration.webp
 description: "This year marks the 170th anniversary of the publication of Rudolphe Töpffer’s Essai de Physiognomonie, a work addressing the theoretical grounding informing"
 categories:
   - "visual-arts"

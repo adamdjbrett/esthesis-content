@@ -3,7 +3,7 @@ title: "Cyberculture And The New Digital (“Xperimental”) Poetics – An Inte
 date: 2018-10-10T21:14:54+00:00
 author: "Carl Raschke"
 permalink: /cyberculture-and-the-new-digital-xperimental-poetics-an-interview-with-daniel-y-harris-and-irene-koronas-esthesis-editors/
-image: /images/wp-content/uploads/2018/10/Cyborg-figure.jpg
+image: /images/wp-content/uploads/2018/10/Cyborg-figure-800x500.jpg
 description: "“What has Athens to do with Jerusalem?” the ancient Christian thinker Tertullian pointedly asked in highlighting the apparent incommensurability between the"
 categories:
   - "poetry"

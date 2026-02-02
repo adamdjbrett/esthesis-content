@@ -3,7 +3,7 @@ title: "Building the Pop Music Empire, Part 2 (Olivia Currin Duell)"
 date: 2018-10-16T14:46:57+00:00
 author: editors
 permalink: /building-the-pop-music-empire-part-2-olivia-currin-duell/
-image: /images/wp-content/uploads/2018/09/Taylor_Swift_129_18280452956-1.jpg
+image: /images/wp-content/uploads/2018/09/Taylor_Swift_129_18280452956-1-800x480.jpg
 description: "The following is the second part in a two-part installment. The first part can be found here. Popular music artists as intertextual commodities Indeed,"
 categories:
   - "music"

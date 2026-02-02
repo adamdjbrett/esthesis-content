@@ -3,7 +3,7 @@ title: "Ambient Rhetoric And Graphic Novels (Sergio C. Figueiredo)"
 date: 2018-12-30T20:39:20+00:00
 author: "Sergio C. Figueiredo"
 permalink: /ambient-rhetoric-and-graphic-novels-sergio-c-figueiredo-2/
-image: /images/wp-content/uploads/2019/01/IMG_3582.jpeg
+image: /images/wp-content/uploads/2019/01/IMG_3582-800x500.jpeg
 description: "In the fall of 2015 I taught a Literary Genre course Kennesaw State University in Georgia on the Graphic Novel ENGL 3230 Syllabus. I taught it from the"
 categories:
   - "art-theory"

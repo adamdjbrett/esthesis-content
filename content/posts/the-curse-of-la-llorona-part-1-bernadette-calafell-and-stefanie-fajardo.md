@@ -3,7 +3,7 @@ title: "The Curse Of La Llorona, Part 1 (Bernadette Calafell And Stefanie Fajard
 date: 2019-11-06T17:29:50+00:00
 author: editors
 permalink: /the-curse-of-la-llorona-part-1-bernadette-calafell-and-stefanie-fajardo/
-image: /images/wp-content/uploads/2019/11/707px-LA_LLORONA_DESFILE_TRADICIONAL_DE_MUERTOS_ORIZABA_VERACRUZ_MÉXICO.jpg
+image: /images/wp-content/uploads/2019/11/707px-LA_LLORONA_DESFILE_TRADICIONAL_DE_MUERTOS_ORIZABA_VERACRUZ_MÉXICO-707x500.jpg
 description: "La Llorona as the Space for Discourse Surrounding Colonialism and Motherhood The American psyche is currently saturated with images of children in cages"
 categories:
   - "film"
@@ -22,7 +22,7 @@ tags:
   - "pilar-melero"
 ---
 
-*La Llorona as the Space for Discourse Surrounding Colonialism and Motherhood *The American psyche is currently saturated with images of children in cages at the southern border and discussions about women’s reproduction and sexual rights. Immigration and women’s bodily autonomy are issues that were a polarizing force in the 2016 Presidential Election. 
+*La Llorona as the Space for Discourse Surrounding Colonialism and Motherhood* The American psyche is currently saturated with images of children in cages at the southern border and discussions about women’s reproduction and sexual rights. Immigration and women’s bodily autonomy are issues that were a polarizing force in the 2016 Presidential Election. 
 
 Donald Trump ran on a campaign of racism and misogyny and was elected the 45th president of the United States. Clearly, his points of view resonated with many Americans who felt threatened by the presence of immigrants and by feminism. 
 
@@ -58,7 +58,7 @@ Given her mythic versatility, and her very recent presence
 in American cinema, it becomes important to ask, “What cultural need is present
 that requires a return of La Llorona to fill it?” 
 
-*The Motion Picture, directed by Michael Chaves *The film structure of The Curse of La Llorona begins with a retelling of the Mexican myth beginning in 1673 and then fast-forwards to three hundred years later in 1973, where the majority of the plot takes place. Very quickly, the film introduces the audience to three major female characters: La Llorona, Patricia Alvarado, and Anna Tate-Garcia. Anna is a white woman and is introduced as a hardworking and stressed widow who is trying to maintain a functioning household after the death of her Latino police husband. 
+*The Motion Picture, directed by Michael Chaves* The film structure of The Curse of La Llorona begins with a retelling of the Mexican myth beginning in 1673 and then fast-forwards to three hundred years later in 1973, where the majority of the plot takes place. Very quickly, the film introduces the audience to three major female characters: La Llorona, Patricia Alvarado, and Anna Tate-Garcia. Anna is a white woman and is introduced as a hardworking and stressed widow who is trying to maintain a functioning household after the death of her Latino police husband. 
 
 Patricia is a Mexican-American mother being investigated by Anna, who is a social worker, because she is suspected of child abuse and neglect. Patricia uses mystical and occult methods to try to protect her two young sons from being harmed by La Llorona when Anna interferes and takes the two boys under Child Protective Services. This interference is deadly, as La Llorona gains access to the boys who are no longer being protected by their mother and she drowns them in a nearby river. 
 

@@ -3,7 +3,7 @@ title: "Something To Do With A Girl Named Marla – Eros And Gender In Fincher�
 date: 2019-08-01T20:46:09+00:00
 author: editors
 permalink: /something-to-do-with-a-girl-named-marla-eros-and-gender-in-finchers-fight-club-part-1-vernon-cisney/
-image: /images/wp-content/uploads/2019/08/man-woman-fight.jpg
+image: /images/wp-content/uploads/2019/08/man-woman-fight-800x500.jpg
 description: "The following is the first installment of a three-part series. A way that can be walked is not The Way A name that can be named is not The Name —Tao Te"
 categories:
   - "film"

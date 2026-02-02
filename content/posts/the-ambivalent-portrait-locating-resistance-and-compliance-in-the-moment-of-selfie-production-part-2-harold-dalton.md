@@ -3,7 +3,7 @@ title: "The Ambivalent Portrait – Locating Resistance And Compliance In The Mo
 date: 2020-04-26T04:54:38+00:00
 author: editors
 permalink: /the-ambivalent-portrait-locating-resistance-and-compliance-in-the-moment-of-selfie-production-part-2-harold-dalton/
-image: /images/wp-content/uploads/2020/04/Group_selfie_of_the_United_States_Womens_National_Soccer_Team_with_Barack_Obama-1.jpg
+image: /images/wp-content/uploads/2020/04/Group_selfie_of_the_United_States_Womens_National_Soccer_Team_with_Barack_Obama-1-800x500.jpg
 description: "The following is the second of a two-part series. The first can be found here. In the reaction to the photographs of Innes and Kardashian, both of which fit"
 categories:
   - "photography"

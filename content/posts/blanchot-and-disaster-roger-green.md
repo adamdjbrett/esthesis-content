@@ -3,7 +3,7 @@ title: "Blanchot And Disaster (Roger Green)"
 date: 2020-07-09T21:27:07+00:00
 author: editors
 permalink: /blanchot-and-disaster-roger-green/
-image: /images/wp-content/uploads/2020/07/destruction-3247320_1280.jpg
+image: /images/wp-content/uploads/2020/07/destruction-3247320_1280-800x500.jpg
 description: "In this essay, I want to explore the distinction between the “state of exception” and the “disaster.” In doing so, I am also drawing on an interesting seminar"
 categories:
   - "literature"

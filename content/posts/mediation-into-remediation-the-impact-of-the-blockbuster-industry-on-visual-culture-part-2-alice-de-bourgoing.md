@@ -3,7 +3,7 @@ title: "Mediation Into Remediation – The Impact Of The “Blockbuster” Indus
 date: 2019-07-07T21:51:10+00:00
 author: editors
 permalink: /mediation-into-remediation-the-impact-of-the-blockbuster-industry-on-visual-culture-part-2-alice-de-bourgoing/
-image: /images/wp-content/uploads/2019/07/Citizen-Kane-Welles-Podium.jpg
+image: /images/wp-content/uploads/2019/07/Citizen-Kane-Welles-Podium-800x500.jpg
 description: "The following is the second of a two part series. The first can be found here. With the recent debate on the switch from illusion to immersion, we know that"
 categories:
   - "cinema"
